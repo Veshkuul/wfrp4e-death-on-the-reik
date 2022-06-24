@@ -1,0 +1,14 @@
+{
+    "name": "wfrp4e-death-on-the-reik",
+    "title": "WFRP4e - Death on the Reik (Enemy Within Vol.2)",
+    "description": "Death on the Reik (Enemy Within Vol.2)",
+    "version": "1.0.0",
+    "author": "Veshkuul",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        
+    ],
+    "url": "https://github.com/Veshkuul/wfrp4e-death-on-the-reik",
+    "manifest": "https://github.com/Veshkuul/wfrp4e-death-on-the-reik/releases/download/1.0.0/module.json"
+}
